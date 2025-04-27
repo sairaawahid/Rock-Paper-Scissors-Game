@@ -1,15 +1,22 @@
-# Rock-Paper-Scissors-Game
+# Rock-Paper-Scissors-Game🎮
 
-A simple command-line Rock–Paper–Scissors game in Python.  
+A simple command-line Rock–Paper–Scissors game in Python.
+Players can play multiple rounds against the computer without restarting the program!
 Play against the computer by entering your move, and see who wins each round!
 
-### Features
-- **Interactive Play**: Prompts for user input and displays computer’s choice.
-- **Easy to Read**: Well-documented code with descriptive comments.
-- **Handles Invalid Input**: Alerts the player if they enter anything other than rock, paper, or scissors.
+### Project Description
+This project is a Python-based implementation of the classic Rock–Paper–Scissors game, designed for interactive play through the console.
+It allows users to make their move, see the computer's random choice, and instantly get the game result.
+The game now supports continuous gameplay, letting users play multiple rounds until they choose to exit.
 
-- When prompted, type rock, paper, or scissors and press Enter.
-- The computer will randomly pick its move.
-- The result (“win”, “lose”, or “tie”) is printed to the console.
+The code is modular, beginner-friendly, and includes detailed comments for easy understanding.
+
+### Features
+- **Interactive Play:** Prompts for user input and displays the computer’s choice.
+- **Randomized Computer Choice:** Using Python’s random library.
+- **Structured and Readable Code:**: Well-documented code with descriptive comments.
+- **Input Validation:** Alerts the player if they enter an invalid move.
+- **Continuous Play:** The player can continue playing as many rounds as they want until they exit.
+
 
 Enjoy the game, and may the best hand win! 🎮✊📄✂️

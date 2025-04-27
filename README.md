@@ -14,7 +14,7 @@ The code is modular, beginner-friendly, and includes detailed comments for easy 
 ### Features
 - **Interactive Play:** Prompts for user input and displays the computer’s choice.
 - **Randomized Computer Choice:** Using Python’s random library.
-- **Structured and Readable Code:**: Well-documented code with descriptive comments.
+- **Structured and Readable Code:** Well-documented code with descriptive comments.
 - **Input Validation:** Alerts the player if they enter an invalid move.
 - **Continuous Play:** The player can continue playing as many rounds as they want until they exit.
 

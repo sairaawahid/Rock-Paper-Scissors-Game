@@ -18,5 +18,14 @@ The code is modular, beginner-friendly, and includes detailed comments for easy 
 - **Input Validation:** Alerts the player if they enter an invalid move.
 - **Continuous Play:** The player can continue playing as many rounds as they want until they exit.
 
+### Future Enhancements🎯
+- Develop a graphical user interface (GUI) to make gameplay more visual and user-friendly.
+- Add score tracking across rounds.
+
+### How to Run
+- Clone or download this repository.
+- Run the rock_paper_scissors.py file.
+- Follow the on-screen prompts to play!
+
 
 Enjoy the game, and may the best hand win! 🎮✊📄✂️
